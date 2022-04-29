@@ -6,7 +6,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dam0305&layout=compact&theme=tokyonight)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dam0305&show_icons=true&theme=radical)
+<!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dam0305&show_icons=true&theme=radical)--->
 </div>
 <!---
 Dam0305/Dam0305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
