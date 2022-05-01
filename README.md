@@ -1,8 +1,13 @@
 <div align="center">
-- 👋 Hi, there! I'm Dam.
-
+- 👋 Hi, there! I'm Dam. </br>
+- 👀 I’m interested in python, java </br>
+- - 🌱 I’m currently learning Server </br>
+- I'm updating slowly! And README also will be updated soon :)
+  
 #
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDam0305&count_bg=%23A4A4A4&title_bg=%23000000&icon=&icon_color=%23DB3737&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDam0305&count_bg=%23A4A4A4&title_bg=%23000000&icon=&icon_color=%23DB3737&title=hits&edge_flat=false)
+
+## Top Langs!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dam0305&layout=compact&theme=tokyonight)
 
